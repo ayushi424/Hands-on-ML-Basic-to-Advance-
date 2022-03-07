@@ -204,6 +204,7 @@ The six major areas of data science include the following:
 | [Spam Mail Detection](Spam%20Mail%20Detection) |
 | [Speech_Emotion_Recognition](Speech_Emotion_Recognition) |
 | [Sports Analytics Project](Sports%20Analytics%20Project) |
+| [Startup_Profit_Prediction](Startup_Profit_Prediction) |
 | [Time-Series LSTM Model](Time-Series%20LSTM%20Model) |
 | [Unique Chatbot](Unique%20Chatbot) |
 | [Various Plots using Matplot,Seaborn,Pandas](Various%20Plots%20using%20Matplot%2CSeaborn%2CPandas) |
