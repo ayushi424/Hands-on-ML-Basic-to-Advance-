@@ -194,6 +194,7 @@ The six major areas of data science include the following:
 | [Meteorite Landing Data Analysis](Meteorite%20Landing%20Data%20Analysis) |
 | [Movie-Recommendation-System](Movie-Recommendation-System) |
 | [NumPy - Basics](NumPy%20-%20Basics) |
+| [OCR-Medicine-Reader](OCR-Medicine-Reader) |
 | [Object Detection](Object%20Detection) |
 | [Ola Bike Ride Request Demand Forecast](Ola%20Bike%20Ride%20Request%20Demand%20Forecast) |
 | [Optical character recognition (OCR)](Optical%20character%20recognition%20(OCR)) |
@@ -205,6 +206,7 @@ The six major areas of data science include the following:
 | [Speech_Emotion_Recognition](Speech_Emotion_Recognition) |
 | [Sports Analytics Project](Sports%20Analytics%20Project) |
 | [Startup_Profit_Prediction](Startup_Profit_Prediction) |
+| [Stock Price Analysis](Stock%20Price%20Analysis) |
 | [Time Series Forecasting with Python](Time%20Series%20Forecasting%20with%20Python) |
 | [Time-Series LSTM Model](Time-Series%20LSTM%20Model) |
 | [Unique Chatbot](Unique%20Chatbot) |
