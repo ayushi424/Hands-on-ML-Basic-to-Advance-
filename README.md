@@ -194,6 +194,7 @@ The six major areas of data science include the following:
 | [Medical_Help_Chatbot](Medical_Help_Chatbot) |
 | [Meteorite Landing Data Analysis](Meteorite%20Landing%20Data%20Analysis) |
 | [Movie-Recommendation-System](Movie-Recommendation-System) |
+| [Nasa-Asteroids-Dataset-Analysis](Nasa-Asteroids-Dataset-Analysis) |
 | [NumPy - Basics](NumPy%20-%20Basics) |
 | [OCR-Medicine-Reader](OCR-Medicine-Reader) |
 | [Object Detection](Object%20Detection) |
