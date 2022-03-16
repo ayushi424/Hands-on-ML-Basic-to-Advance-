@@ -164,6 +164,7 @@ The six major areas of data science include the following:
 | [Basics of the Python](Basics%20of%20the%20Python) |
 | [Bitcoin Price Prediction Web App](Bitcoin%20Price%20Prediction%20Web%20App) |
 | [Bitcoin Price Predictor](Bitcoin%20Price%20Predictor) |
+| [CBT_ChatBot](CBT_ChatBot) |
 | [COVID_19-DATA-ANALYSIS](COVID_19-DATA-ANALYSIS) |
 | [Cheat Sheets](Cheat%20Sheets) |
 | [Class Imbalance problem](Class%20Imbalance%20problem) |
