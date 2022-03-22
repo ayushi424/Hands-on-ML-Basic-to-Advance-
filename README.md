@@ -195,8 +195,10 @@ The six major areas of data science include the following:
 | [Medical_Help_Chatbot](Medical_Help_Chatbot) |
 | [Meteorite Landing Data Analysis](Meteorite%20Landing%20Data%20Analysis) |
 | [Movie-Recommendation-System](Movie-Recommendation-System) |
+| [Movie-Recommender-System using python](Movie-Recommender-System%20using%20python) |
 | [Nasa-Asteroids-Dataset-Analysis](Nasa-Asteroids-Dataset-Analysis) |
 | [NumPy - Basics](NumPy%20-%20Basics) |
+| [Number_of_people_counter](Number_of_people_counter) |
 | [OCR-Medicine-Reader](OCR-Medicine-Reader) |
 | [Object Detection](Object%20Detection) |
 | [Ola Bike Ride Request Demand Forecast](Ola%20Bike%20Ride%20Request%20Demand%20Forecast) |
@@ -221,6 +223,7 @@ The six major areas of data science include the following:
 | [XgBoost_Algorithm](XgBoost_Algorithm) |
 | [ensemble-methods-notebooks-master](ensemble-methods-notebooks-master) |
 | [heart failure](heart%20failure) |
+| [job_Advertisement_detection](job_Advertisement_detection) |
 | [recommendation_system](recommendation_system) |
 | [Analysis_of_Temperature_Rise_in_PMSM.ipynb](Analysis_of_Temperature_Rise_in_PMSM.ipynb) |
 | [Beautiful Soup.ipynb](Beautiful%20Soup.ipynb) |
