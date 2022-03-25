@@ -187,6 +187,7 @@ The six major areas of data science include the following:
 | [Fake_News_Detection](Fake_News_Detection) |
 | [File of SQL Commands](File%20of%20SQL%20Commands) |
 | [Flight_delay_prediction_project](Flight_delay_prediction_project) |
+| [GDP Prediction](GDP%20Prediction) |
 | [GUI-JARVIS](GUI-JARVIS) |
 | [Handwritten Equation Solver using CNN](Handwritten%20Equation%20Solver%20using%20CNN) |
 | [Handwritten character recognition](Handwritten%20character%20recognition) |
