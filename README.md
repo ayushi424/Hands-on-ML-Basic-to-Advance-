@@ -233,6 +233,7 @@ The six major areas of data science include the following:
 | [Ensemble-Learning (Stacking)](Ensemble-Learning%20(Stacking)) |
 | [Machine Hack -1.ipynb](Machine%20Hack%20-1.ipynb) |
 | [README.md updated file](README.md%20updated%20file) |
+| [Role_from_Resume.ipynb](Role_from_Resume.ipynb) |
 | [Sql](Sql) |
 | [Statistics- Basics.ipynb](Statistics-%20Basics.ipynb) |
 | [Test Task_NIket.ipynb](Test%20Task_NIket.ipynb) |
