@@ -157,6 +157,7 @@ The six major areas of data science include the following:
 | Content List | 
  | --------------- | 
 | [Advanced Visualizations](Advanced%20Visualizations) |
+| [Analysis_&_predict_Black_friday_sale](Analysis_%26_predict_Black_friday_sale) |
 | [Audio Classification](Audio%20Classification) |
 | [Automatic Summarization of Scientific Papers](Automatic%20Summarization%20of%20Scientific%20Papers) |
 | [Basics of ML and DL](Basics%20of%20ML%20and%20DL) |
