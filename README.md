@@ -196,6 +196,7 @@ The six major areas of data science include the following:
 | [Handwritten Equation Solver using CNN](Handwritten%20Equation%20Solver%20using%20CNN) |
 | [Handwritten character recognition](Handwritten%20character%20recognition) |
 | [Heart_Predection](Heart_Predection) |
+| [IMDB Box Office Prediction](IMDB%20Box%20Office%20Prediction) |
 | [Medical Charges for Smokers and Non-smoker](Medical%20Charges%20for%20Smokers%20and%20Non-smoker) |
 | [Medical_Help_Chatbot](Medical_Help_Chatbot) |
 | [Meteorite Landing Data Analysis](Meteorite%20Landing%20Data%20Analysis) |
@@ -213,6 +214,7 @@ The six major areas of data science include the following:
 | [Random forest from scratch](Random%20forest%20from%20scratch) |
 | [Random forest test](Random%20forest%20test) |
 | [Sentiment analysis for depression based on social media posts](Sentiment%20analysis%20for%20depression%20based%20on%20social%20media%20posts) |
+| [Sentiment-Analysis](Sentiment-Analysis) |
 | [Spam Mail Detection](Spam%20Mail%20Detection) |
 | [Speech_Emotion_Recognition](Speech_Emotion_Recognition) |
 | [Sports Analytics Project](Sports%20Analytics%20Project) |
@@ -230,7 +232,9 @@ The six major areas of data science include the following:
 | [ensemble-methods-notebooks-master](ensemble-methods-notebooks-master) |
 | [heart failure](heart%20failure) |
 | [job_Advertisement_detection](job_Advertisement_detection) |
+| [logistic_regression_scratch](logistic_regression_scratch) |
 | [recommendation_system](recommendation_system) |
+| [.DS_Store](.DS_Store) |
 | [Analysis_of_Temperature_Rise_in_PMSM.ipynb](Analysis_of_Temperature_Rise_in_PMSM.ipynb) |
 | [Beautiful Soup.ipynb](Beautiful%20Soup.ipynb) |
 | [Ensemble learning.docx](Ensemble%20learning.docx) |
