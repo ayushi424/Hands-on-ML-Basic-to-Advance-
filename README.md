@@ -157,6 +157,7 @@ The six major areas of data science include the following:
 | Content List | 
  | --------------- | 
 | [Advanced Visualizations](Advanced%20Visualizations) |
+| [Alzheimer's Disease Predictor](Alzheimer's%20Disease%20Predictor) |
 | [Analysis_&_predict_Black_friday_sale](Analysis_%26_predict_Black_friday_sale) |
 | [Audio Classification](Audio%20Classification) |
 | [Automatic Summarization of Scientific Papers](Automatic%20Summarization%20of%20Scientific%20Papers) |
@@ -171,6 +172,7 @@ The six major areas of data science include the following:
 | [Cheat Sheets](Cheat%20Sheets) |
 | [Class Imbalance problem](Class%20Imbalance%20problem) |
 | [Classification Algorithms](Classification%20Algorithms) |
+| [Cloud Details](Cloud%20Details) |
 | [Covid19 forecasting with prophet](Covid19%20forecasting%20with%20prophet) |
 | [Covid_Third_Wave_Forecasting](Covid_Third_Wave_Forecasting) |
 | [Customer Segmentation using Machine Learning](Customer%20Segmentation%20using%20Machine%20Learning) |
@@ -198,6 +200,7 @@ The six major areas of data science include the following:
 | [Handwritten character recognition](Handwritten%20character%20recognition) |
 | [Heart_Predection](Heart_Predection) |
 | [IMDB Box Office Prediction](IMDB%20Box%20Office%20Prediction) |
+| [LanguageDetection](LanguageDetection) |
 | [Medical Charges for Smokers and Non-smoker](Medical%20Charges%20for%20Smokers%20and%20Non-smoker) |
 | [Medical_Help_Chatbot](Medical_Help_Chatbot) |
 | [Meteorite Landing Data Analysis](Meteorite%20Landing%20Data%20Analysis) |
@@ -214,8 +217,10 @@ The six major areas of data science include the following:
 | [R language](R%20language) |
 | [Random forest from scratch](Random%20forest%20from%20scratch) |
 | [Random forest test](Random%20forest%20test) |
+| [Rock Paper Scissors Python Game](Rock%20Paper%20Scissors%20Python%20Game) |
 | [Sentiment analysis for depression based on social media posts](Sentiment%20analysis%20for%20depression%20based%20on%20social%20media%20posts) |
 | [Sentiment-Analysis](Sentiment-Analysis) |
+| [Skin Disease Predictor](Skin%20Disease%20Predictor) |
 | [Spam Mail Detection](Spam%20Mail%20Detection) |
 | [Speech_Emotion_Recognition](Speech_Emotion_Recognition) |
 | [Sports Analytics Project](Sports%20Analytics%20Project) |
