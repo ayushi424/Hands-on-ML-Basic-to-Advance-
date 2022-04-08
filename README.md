@@ -227,6 +227,7 @@ The six major areas of data science include the following:
 | [Startup_Profit_Prediction](Startup_Profit_Prediction) |
 | [Stock Price Analysis](Stock%20Price%20Analysis) |
 | [Sudoku Solver using CNN](Sudoku%20Solver%20using%20CNN) |
+| [Tensorflow.js Demo](Tensorflow.js%20Demo) |
 | [Time Series Forecasting with Python](Time%20Series%20Forecasting%20with%20Python) |
 | [Time-Series LSTM Model](Time-Series%20LSTM%20Model) |
 | [Unique Chatbot](Unique%20Chatbot) |
