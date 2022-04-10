@@ -253,6 +253,7 @@ The six major areas of data science include the following:
 | [Sql](Sql) |
 | [Statistics- Basics.ipynb](Statistics-%20Basics.ipynb) |
 | [Test Task_NIket.ipynb](Test%20Task_NIket.ipynb) |
+| [UBER_DATA_ANALYSIS.ipynb](UBER_DATA_ANALYSIS.ipynb) |
 | [Various_Plots_in_Matplotlib.ipynb](Various_Plots_in_Matplotlib.ipynb) |
 | [Visualization  with Seaborn & Matplotlib.ipynb](Visualization%20%20with%20Seaborn%20%26%20Matplotlib.ipynb) |
 | [buyer_s_time234.ipynb](buyer_s_time234.ipynb) |
