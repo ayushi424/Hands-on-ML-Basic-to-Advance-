@@ -224,6 +224,7 @@ The six major areas of data science include the following:
 | [Skin Disease Predictor](Skin%20Disease%20Predictor) |
 | [Spam Mail Detection](Spam%20Mail%20Detection) |
 | [Speech_Emotion_Recognition](Speech_Emotion_Recognition) |
+| [Spelling Corrector](Spelling%20Corrector) |
 | [Sports Analytics Project](Sports%20Analytics%20Project) |
 | [Startup_Profit_Prediction](Startup_Profit_Prediction) |
 | [Stock Price Analysis](Stock%20Price%20Analysis) |
