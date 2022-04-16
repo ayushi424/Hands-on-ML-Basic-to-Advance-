@@ -197,6 +197,7 @@ The six major areas of data science include the following:
 | [Flight_delay_prediction_project](Flight_delay_prediction_project) |
 | [GDP Prediction](GDP%20Prediction) |
 | [GUI-JARVIS](GUI-JARVIS) |
+| [Gender Pay Gap Analysis](Gender%20Pay%20Gap%20Analysis) |
 | [Google Teachable Machine](Google%20Teachable%20Machine) |
 | [Handwritten Equation Solver using CNN](Handwritten%20Equation%20Solver%20using%20CNN) |
 | [Handwritten character recognition](Handwritten%20character%20recognition) |
