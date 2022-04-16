@@ -176,6 +176,7 @@ The six major areas of data science include the following:
 | [Cloud Details](Cloud%20Details) |
 | [Covid19 forecasting with prophet](Covid19%20forecasting%20with%20prophet) |
 | [Covid_Third_Wave_Forecasting](Covid_Third_Wave_Forecasting) |
+| [CrowdAI Plant Disease](CrowdAI%20Plant%20Disease) |
 | [Customer Segmentation using Machine Learning](Customer%20Segmentation%20using%20Machine%20Learning) |
 | [Data Cleaning Techniques](Data%20Cleaning%20Techniques) |
 | [Data Filling and Cleaning Techniques](Data%20Filling%20and%20Cleaning%20Techniques) |
