@@ -170,6 +170,7 @@ The six major areas of data science include the following:
 | [Bitcoin Price Predictor](Bitcoin%20Price%20Predictor) |
 | [CBT_ChatBot](CBT_ChatBot) |
 | [COVID_19-DATA-ANALYSIS](COVID_19-DATA-ANALYSIS) |
+| [Chatbot Using RASA](Chatbot%20Using%20RASA) |
 | [Cheat Sheets](Cheat%20Sheets) |
 | [Class Imbalance problem](Class%20Imbalance%20problem) |
 | [Classification Algorithms](Classification%20Algorithms) |
@@ -247,6 +248,7 @@ The six major areas of data science include the following:
 | [heart failure](heart%20failure) |
 | [job_Advertisement_detection](job_Advertisement_detection) |
 | [logistic_regression_scratch](logistic_regression_scratch) |
+| [pytorch_tabular](pytorch_tabular) |
 | [recommendation_system](recommendation_system) |
 | [.DS_Store](.DS_Store) |
 | [Analysis_of_Temperature_Rise_in_PMSM.ipynb](Analysis_of_Temperature_Rise_in_PMSM.ipynb) |
