@@ -159,6 +159,7 @@ The six major areas of data science include the following:
 | [Advanced Visualizations](Advanced%20Visualizations) |
 | [Alzheimer's Disease Predictor](Alzheimer's%20Disease%20Predictor) |
 | [Analysis_&_predict_Black_friday_sale](Analysis_%26_predict_Black_friday_sale) |
+| [Association Rule Implementation](Association%20Rule%20Implementation) |
 | [Audio Classification](Audio%20Classification) |
 | [Automatic Summarization of Scientific Papers](Automatic%20Summarization%20of%20Scientific%20Papers) |
 | [Basics of ML and DL](Basics%20of%20ML%20and%20DL) |
@@ -185,6 +186,7 @@ The six major areas of data science include the following:
 | [Different types of feature selection techniques](Different%20types%20of%20feature%20selection%20techniques) |
 | [Different_types_of_scaling_Method](Different_types_of_scaling_Method) |
 | [Driver_Drowsiness_Detection](Driver_Drowsiness_Detection) |
+| [Duplicate_Question_pair](Duplicate_Question_pair) |
 | [EDA-and-Perform-Modelling-on-Ionosphere-Dataset-main](EDA-and-Perform-Modelling-on-Ionosphere-Dataset-main) |
 | [Email Classifier](Email%20Classifier) |
 | [Emotion Recognition Based on NLP](Emotion%20Recognition%20Based%20on%20NLP) |
