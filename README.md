@@ -176,6 +176,7 @@ The six major areas of data science include the following:
 | [Class Imbalance problem](Class%20Imbalance%20problem) |
 | [Classification Algorithms](Classification%20Algorithms) |
 | [Cloud Details](Cloud%20Details) |
+| [Clustering Algorithms](Clustering%20Algorithms) |
 | [Covid19 forecasting with prophet](Covid19%20forecasting%20with%20prophet) |
 | [Covid_Third_Wave_Forecasting](Covid_Third_Wave_Forecasting) |
 | [CrowdAI Plant Disease](CrowdAI%20Plant%20Disease) |
