@@ -241,6 +241,7 @@ The six major areas of data science include the following:
 | [Tensorflow.js Demo](Tensorflow.js%20Demo) |
 | [Time Series Forecasting with Python](Time%20Series%20Forecasting%20with%20Python) |
 | [Time-Series LSTM Model](Time-Series%20LSTM%20Model) |
+| [Transfer Learning](Transfer%20Learning) |
 | [Unique Chatbot](Unique%20Chatbot) |
 | [Various Plots using Matplot,Seaborn,Pandas](Various%20Plots%20using%20Matplot%2CSeaborn%2CPandas) |
 | [Vehicles and Pedestrian Detection](Vehicles%20and%20Pedestrian%20Detection) |
