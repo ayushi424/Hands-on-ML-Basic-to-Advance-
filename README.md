@@ -224,11 +224,13 @@ The six major areas of data science include the following:
 | [Ola Bike Ride Request Demand Forecast](Ola%20Bike%20Ride%20Request%20Demand%20Forecast) |
 | [Optical character recognition (OCR)](Optical%20character%20recognition%20(OCR)) |
 | [Plant Seedlings Classification](Plant%20Seedlings%20Classification) |
+| [PyScript Tutorial](PyScript%20Tutorial) |
 | [R language](R%20language) |
 | [Random forest from scratch](Random%20forest%20from%20scratch) |
 | [Random forest test](Random%20forest%20test) |
 | [Rock Paper Scissors Python Game](Rock%20Paper%20Scissors%20Python%20Game) |
 | [Sentiment analysis for depression based on social media posts](Sentiment%20analysis%20for%20depression%20based%20on%20social%20media%20posts) |
+| [Sentiment-Analysis-on-IMDb-reviews](Sentiment-Analysis-on-IMDb-reviews) |
 | [Sentiment-Analysis](Sentiment-Analysis) |
 | [Skin Disease Predictor](Skin%20Disease%20Predictor) |
 | [Spam Mail Detection](Spam%20Mail%20Detection) |
