@@ -235,6 +235,7 @@ The six major areas of data science include the following:
 | [Sentiment-Analysis-on-IMDb-reviews](Sentiment-Analysis-on-IMDb-reviews) |
 | [Sentiment-Analysis](Sentiment-Analysis) |
 | [Skin Disease Predictor](Skin%20Disease%20Predictor) |
+| [SongGenreClassifier](SongGenreClassifier) |
 | [Spam Mail Detection](Spam%20Mail%20Detection) |
 | [Speech_Emotion_Recognition](Speech_Emotion_Recognition) |
 | [Spelling Corrector](Spelling%20Corrector) |
