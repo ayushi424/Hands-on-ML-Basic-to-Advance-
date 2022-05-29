@@ -254,6 +254,7 @@ The six major areas of data science include the following:
 | [Weather Prediction](Weather%20Prediction) |
 | [Web-Scraping-with-Beautiful-Soup-master](Web-Scraping-with-Beautiful-Soup-master) |
 | [Website Classification](Website%20Classification) |
+| [Windy_Grid_World_RL](Windy_Grid_World_RL) |
 | [XgBoost_Algorithm](XgBoost_Algorithm) |
 | [Youtube Comment Analysis](Youtube%20Comment%20Analysis) |
 | [ensemble-methods-notebooks-master](ensemble-methods-notebooks-master) |
