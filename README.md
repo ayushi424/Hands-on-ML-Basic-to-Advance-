@@ -209,6 +209,7 @@ The six major areas of data science include the following:
 | [Handwritten character recognition](Handwritten%20character%20recognition) |
 | [Heart_Predection](Heart_Predection) |
 | [IMDB Box Office Prediction](IMDB%20Box%20Office%20Prediction) |
+| [Instagram Reach Prediction](Instagram%20Reach%20Prediction) |
 | [LanguageDetection](LanguageDetection) |
 | [Malicious Url Detection](Malicious%20Url%20Detection) |
 | [Medical Charges for Smokers and Non-smoker](Medical%20Charges%20for%20Smokers%20and%20Non-smoker) |
@@ -262,6 +263,7 @@ The six major areas of data science include the following:
 | [pytorch_tabular](pytorch_tabular) |
 | [recommendation_system](recommendation_system) |
 | [.DS_Store](.DS_Store) |
+| [Activation Functions.md](Activation%20Functions.md) |
 | [Analysis_of_Temperature_Rise_in_PMSM.ipynb](Analysis_of_Temperature_Rise_in_PMSM.ipynb) |
 | [Beautiful Soup.ipynb](Beautiful%20Soup.ipynb) |
 | [Ensemble learning.docx](Ensemble%20learning.docx) |
