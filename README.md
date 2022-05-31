@@ -210,6 +210,7 @@ The six major areas of data science include the following:
 | [Heart_Predection](Heart_Predection) |
 | [IMDB Box Office Prediction](IMDB%20Box%20Office%20Prediction) |
 | [Instagram Reach Prediction](Instagram%20Reach%20Prediction) |
+| [LSTM from Scratch](LSTM%20from%20Scratch) |
 | [LanguageDetection](LanguageDetection) |
 | [Malicious Url Detection](Malicious%20Url%20Detection) |
 | [Medical Charges for Smokers and Non-smoker](Medical%20Charges%20for%20Smokers%20and%20Non-smoker) |
