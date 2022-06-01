@@ -156,6 +156,7 @@ The six major areas of data science include the following:
 <!-- Projects start -->
 | Content List | 
  | --------------- | 
+| [.idea](.idea) |
 | [Advanced Visualizations](Advanced%20Visualizations) |
 | [Alzheimer's Disease Predictor](Alzheimer's%20Disease%20Predictor) |
 | [Analysis_&_predict_Black_friday_sale](Analysis_%26_predict_Black_friday_sale) |
@@ -199,6 +200,7 @@ The six major areas of data science include the following:
 | [File of SQL Commands](File%20of%20SQL%20Commands) |
 | [Fish-Weight-Estimation](Fish-Weight-Estimation) |
 | [Flight_delay_prediction_project](Flight_delay_prediction_project) |
+| [Flower_classification_android_app](Flower_classification_android_app) |
 | [GDP Prediction](GDP%20Prediction) |
 | [GUI-JARVIS](GUI-JARVIS) |
 | [Gender Pay Gap Analysis](Gender%20Pay%20Gap%20Analysis) |
@@ -230,6 +232,7 @@ The six major areas of data science include the following:
 | [Plant Seedlings Classification](Plant%20Seedlings%20Classification) |
 | [PyScript Tutorial](PyScript%20Tutorial) |
 | [R language](R%20language) |
+| [Random Oversampler](Random%20Oversampler) |
 | [Random forest from scratch](Random%20forest%20from%20scratch) |
 | [Random forest test](Random%20forest%20test) |
 | [Rock Paper Scissors Python Game](Rock%20Paper%20Scissors%20Python%20Game) |
@@ -237,6 +240,7 @@ The six major areas of data science include the following:
 | [Sentiment-Analysis-on-IMDb-reviews](Sentiment-Analysis-on-IMDb-reviews) |
 | [Sentiment-Analysis](Sentiment-Analysis) |
 | [Skin Disease Predictor](Skin%20Disease%20Predictor) |
+| [Social Media Fake Accounts Detection with Interactive UI](Social%20Media%20Fake%20Accounts%20Detection%20with%20Interactive%20UI) |
 | [SongGenreClassifier](SongGenreClassifier) |
 | [Spam Mail Detection](Spam%20Mail%20Detection) |
 | [Speech_Emotion_Recognition](Speech_Emotion_Recognition) |
@@ -248,6 +252,7 @@ The six major areas of data science include the following:
 | [Tensorflow.js Demo](Tensorflow.js%20Demo) |
 | [Time Series Forecasting with Python](Time%20Series%20Forecasting%20with%20Python) |
 | [Time-Series LSTM Model](Time-Series%20LSTM%20Model) |
+| [Traffic Sign Recognition](Traffic%20Sign%20Recognition) |
 | [Transfer Learning](Transfer%20Learning) |
 | [Tweets Classification](Tweets%20Classification) |
 | [Unique Chatbot](Unique%20Chatbot) |
